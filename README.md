@@ -1,4 +1,4 @@
-<h1> <img width="50" height="50"src = "https://user-images.githubusercontent.com/77875811/232703199-bb4363fc-62a1-4be9-9804-41308284b3ac.png"/> DALL-E || Image Generation  </h1> 
+<h1> <img width="50" height="50"src = "https://user-images.githubusercontent.com/77875811/232703199-bb4363fc-62a1-4be9-9804-41308284b3ac.png"/> DALL-E || MERN AI Image Generation  </h1> 
 
 
 <h2>https://dall-e-image-generation-eta.vercel.app/</h2>
