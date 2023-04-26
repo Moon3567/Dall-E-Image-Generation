@@ -15,3 +15,5 @@
 <p align="center">
   <img width="800" height="400" src="https://user-images.githubusercontent.com/77875811/232704558-cd573b72-22ca-4e0d-8114-f5ae2b68807f.png">
 </p>
+
+PS: It will take a few minuites for the Vercel Service to start up again
